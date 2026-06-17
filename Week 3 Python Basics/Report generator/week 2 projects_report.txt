@@ -1,0 +1,13 @@
+WEEK 2 PROJECTS REPORT
+===========================
+ Project name:Form to Gmail, Tool used:Zapier, Day: 8,Time taken:Full day 
+ Project name:Make Automation, Tool used:Make.com, Day: 10,Time taken:Full day 
+ Project name:Google Sheets to Gmail, Tool used:Zapier, Day: 12,Time taken:30 mins 
+ Project name:AI Content Generation, Tool used:Zapier + AI, Day: 12,Time taken:53 mins 
+ Project name:Lead Collection System, Tool used:Zapier, Day: 12,Time taken:33 mins 
+ Project name:Task Reminder, Tool used:Zapier, Day: 13,Time taken:25 mins 
+
+===========================
+
+Total projects completed: 6
+Score: 86.0%
