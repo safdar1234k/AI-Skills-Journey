@@ -1,0 +1,6 @@
+hello
+how are you
+what is your name
+tell me a joke
+thanks
+exit
