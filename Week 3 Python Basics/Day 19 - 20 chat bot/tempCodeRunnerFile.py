@@ -1,2 +1,2 @@
-# This chatbot dynamically mixes response fragments, creating millions of possible outputs.
-virtual_parameter_count = 1_000_000
+# Simple offline chatbot using large rule-based pattern matching.
+# This is the previous version with direct response selection.
